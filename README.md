@@ -1,1 +1,1 @@
-# favorite-recipes-frontend
+# my-favorite-recipes
