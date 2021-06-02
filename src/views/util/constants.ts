@@ -1,0 +1,9 @@
+export const RECIPE_REST_END_POINT = 'http://localhost:2121';
+export const ORIGIN = 'http://localhost:3000';
+export const SIGN_IN = '/api/v1/signIn';
+export const SIGN_UP = '/api/v1/signUp';
+export const ADD_RECIPE='/api/v1/recipe/add';
+export const UPDATE_RECIPE='/api/v1/recipe/update';
+export const DELETE_RECIPE='/api/v1/recipe/delete';
+export const SHOW_RECIPES='/api/v1/recipes';
+export const GET_INGREDIENTS = '/api/v1/ingredients';
